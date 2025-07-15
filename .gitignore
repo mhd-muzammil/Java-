@@ -1,0 +1,6 @@
+# Ignore all .class files in all folders
+*.class
+
+# Ignore bin and out folders if they exist
+bin/
+out/
